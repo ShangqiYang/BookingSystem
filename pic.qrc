@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>C:/Users/Tesla.L/Desktop/login_pic.png</file>
+        <file>C:/Users/Tesla.L/Desktop/login.png</file>
+    </qresource>
+</RCC>
