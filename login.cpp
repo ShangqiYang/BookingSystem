@@ -211,4 +211,3 @@ int main() {
 	login.Login_temp();
 	return 0;
 }
->>>>>>> origin/master
